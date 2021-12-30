@@ -1,6 +1,7 @@
 {
     "name": "Bottus",
     "description": " Whatsapp bot.",
+    "repository": "https://github.com/nikhilq/whatsapp-bot",
     "keywords": [
         "whatsapp",
         "bot"
